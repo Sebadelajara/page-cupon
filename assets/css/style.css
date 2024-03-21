@@ -1,0 +1,37 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.logo {
+  width: 100px;
+}
+.logoblack {
+  text-align: center;
+  width: 100px;
+}
+.alineacion {
+  display: inline-block;
+}
+.container {
+
+}
+.foot {
+  width: 100px;
+}
+.cuponimg {
+  padding-top: 50px;
+}
+h5 {
+  font-weight: 500;
+  color: #212529;
+}
+p {
+  font-weight: 300;
+  color: #707070;
+}
+.cash {
+  font-weight: 500;
+  font-size: 19px;
+}
+.parrafo {
+  display: inline-block;
+}
